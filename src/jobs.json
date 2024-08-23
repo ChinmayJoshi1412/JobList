@@ -1,0 +1,142 @@
+[
+  {
+    "id": "1",
+    "title": "Senior React Developer",
+    "type": "Full-Time",
+    "location": "Bengaluru, Karnataka",
+    "description": "We are seeking a highly skilled Senior React Developer to join our team in Bengaluru. The ideal candidate will have extensive experience in front-end development, particularly with React, and a deep understanding of modern web technologies.",
+    "salary": "₹25L - ₹30L",
+    "company": {
+      "name": "Tech Innovators Pvt Ltd",
+      "description": "Tech Innovators is a leading software development company focused on delivering cutting-edge solutions. We pride ourselves on our innovative approach and commitment to excellence.",
+      "contactEmail": "hr@techinnovators.com",
+      "contactPhone": "+91-80-1234-5678"
+    }
+  },
+  {
+    "id": "2",
+    "title": "Full Stack Developer",
+    "type": "Full-Time",
+    "location": "Hyderabad, Telangana",
+    "description": "Join our team as a Full Stack Developer in Hyderabad. The ideal candidate should be proficient in both front-end and back-end development, with strong skills in React, Node.js, and databases.",
+    "salary": "₹20L - ₹25L",
+    "company": {
+      "name": "Digital Solutions Ltd",
+      "description": "Digital Solutions Ltd is a fast-growing tech company specializing in full-stack development services for clients across the globe.",
+      "contactEmail": "careers@digitalsolutions.com",
+      "contactPhone": "+91-40-2345-6789"
+    }
+  },
+  {
+    "id": "3",
+    "title": "React Native Developer",
+    "type": "Full-Time",
+    "location": "Pune, Maharashtra",
+    "description": "We are looking for a skilled React Native Developer to join our team in Pune. You will be responsible for developing high-performance mobile applications for our clients.",
+    "salary": "₹15L - ₹20L",
+    "company": {
+      "name": "Mobile Solutions Pvt Ltd",
+      "description": "Mobile Solutions Pvt Ltd is a leader in mobile application development, delivering top-quality apps for both Android and iOS platforms.",
+      "contactEmail": "jobs@mobilesolutions.com",
+      "contactPhone": "+91-20-9876-5432"
+    }
+  },
+  {
+    "id": "4",
+    "title": "Front-End Engineer",
+    "type": "Full-Time",
+    "location": "Chennai, Tamil Nadu",
+    "description": "Exciting opportunity for a Front-End Engineer in Chennai. We are looking for someone with a passion for UI/UX design and experience with React.",
+    "salary": "₹10L - ₹12.5L",
+    "company": {
+      "name": "Web Creations",
+      "description": "Web Creations is a renowned web development company specializing in creating stunning and responsive websites for clients worldwide.",
+      "contactEmail": "hr@webcreations.com",
+      "contactPhone": "+91-44-8765-4321"
+    }
+  },
+  {
+    "id": "5",
+    "title": "Junior React Developer",
+    "type": "Full-Time",
+    "location": "Mumbai, Maharashtra",
+    "description": "We are seeking a Junior React Developer in Mumbai. This is a great opportunity for someone with 1-2 years of experience in front-end development to grow their skills.",
+    "salary": "₹7.5L - ₹10L",
+    "company": {
+      "name": "Code Masters Pvt Ltd",
+      "description": "Code Masters Pvt Ltd is a tech company focused on delivering high-quality software solutions for clients across various industries.",
+      "contactEmail": "recruitment@codemasters.com",
+      "contactPhone": "+91-22-3456-7890"
+    }
+  },
+  {
+    "id": "6",
+    "title": "React.js Developer",
+    "type": "Part-Time",
+    "location": "Kolkata, West Bengal",
+    "description": "Join our team as a Part-Time React.js Developer in Kolkata. We are looking for someone with solid experience in React to work on exciting projects with flexible hours.",
+    "salary": "₹5L - ₹7.5L",
+    "company": {
+      "name": "Web Tech Solutions",
+      "description": "Web Tech Solutions is a technology firm specializing in front-end development, offering a creative and flexible work environment.",
+      "contactEmail": "info@webtechsolutions.com",
+      "contactPhone": "+91-33-6543-2109"
+    }
+  },
+  {
+    "id": "7",
+    "title": "Full Stack Developer (React & Node.js)",
+    "type": "Full-Time",
+    "location": "Delhi, Delhi",
+    "description": "We are hiring a Full Stack Developer in Delhi with expertise in React and Node.js. The role involves working on innovative web applications and back-end systems.",
+    "salary": "₹30L - ₹40L",
+    "company": {
+      "name": "Innovative Web Pvt Ltd",
+      "description": "Innovative Web Pvt Ltd is at the forefront of web development, delivering cutting-edge solutions for complex business challenges.",
+      "contactEmail": "careers@innovativeweb.com",
+      "contactPhone": "+91-11-2345-6789"
+    }
+  },
+  {
+    "id": "8",
+    "title": "Senior Front-End Developer",
+    "type": "Full-Time",
+    "location": "Gurgaon, Haryana",
+    "description": "Exciting opportunity for a Senior Front-End Developer in Gurgaon. We are looking for someone with advanced skills in React, Redux, and modern web development practices.",
+    "salary": "₹25L - ₹30L",
+    "company": {
+      "name": "Elite Tech Pvt Ltd",
+      "description": "Elite Tech Pvt Ltd is a premium tech company providing innovative digital solutions to clients worldwide.",
+      "contactEmail": "jobs@elitetech.com",
+      "contactPhone": "+91-124-6789-4321"
+    }
+  },
+  {
+    "id": "9",
+    "title": "React Developer",
+    "type": "Full-Time",
+    "location": "Ahmedabad, Gujarat",
+    "description": "Join our team as a React Developer in Ahmedabad. The ideal candidate will have a strong foundation in front-end development and experience working with React.",
+    "salary": "₹12.5L - ₹15L",
+    "company": {
+      "name": "Digital Wave Pvt Ltd",
+      "description": "Digital Wave Pvt Ltd is known for delivering cutting-edge web and mobile solutions to clients across various industries.",
+      "contactEmail": "careers@digitalwave.com",
+      "contactPhone": "+91-79-1234-5678"
+    }
+  },
+  {
+    "id": "10",
+    "title": "React Native Engineer",
+    "type": "Full-Time",
+    "location": "Noida, Uttar Pradesh",
+    "description": "We are looking for a React Native Engineer to join our team in Noida. You will work on developing high-performance mobile applications for our clients.",
+    "salary": "₹15L - ₹20L",
+    "company": {
+      "name": "Mobile Devs India",
+      "description": "Mobile Devs India is a premier mobile app development company, offering innovative solutions for businesses around the globe.",
+      "contactEmail": "info@mobiledevsindia.com",
+      "contactPhone": "+91-120-8765-4321"
+    }
+  }
+]
